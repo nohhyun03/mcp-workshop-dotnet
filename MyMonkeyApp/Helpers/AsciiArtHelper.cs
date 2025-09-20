@@ -33,7 +33,7 @@ public static class AsciiArtHelper
         return @"
     🐵 WELCOME TO MONKEY APP! 🐵
    ═══════════════════════════════
-         .-""-.
+         .----.
         /     \
        | () () |
         \  ^  /
@@ -69,7 +69,7 @@ public static class AsciiArtHelper
     private static string GetMonkeyFace()
     {
         return @"
-        .-"""""-.
+        .------.
        /  o   o  \
       |     <     |
        \   ___   /
